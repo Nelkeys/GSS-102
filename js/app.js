@@ -290,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
   options: ["standardization", "modernization", "nativization", "anglicization"],
   answer: "nativization",
 },
-[
+
 {
   question: "The origin of English came from.",
   options: ["England & Scotland", "France & Germany", "Italy & Spain", "Greece & Rome"],
@@ -496,8 +496,6 @@ document.addEventListener("DOMContentLoaded", function () {
   options: ["advanced project", "final year project", "research thesis", "thesis project"],
   answer: "final year project",
 },
-]
-
 ];
 
 
