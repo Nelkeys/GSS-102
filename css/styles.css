@@ -37,7 +37,7 @@ body {
     border: 1px solid #555;
     border-radius: 4px;
     cursor: pointer;
-    /**transition: background-color 0.3s, color 0.3s;**/
+    transition: background-color 0.3s, color 0.3s;
   }
   .option:hover{
       background: none;
@@ -57,7 +57,10 @@ body {
   }
 
  
-
+  #questionNumber{
+    text-align: center;
+    color: greenyellow;
+  }
   #score {
     margin-top: 20px;
     font-size: 20px;
