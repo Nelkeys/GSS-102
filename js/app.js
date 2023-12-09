@@ -523,7 +523,7 @@ answer: "final year project",
     optionsContainer.innerHTML = "";
   
     const questionNumberElement = document.getElementById("questionNumber");
-    questionNumberElement.textContent = `Question ${currentQuestionIndex + 1}`;
+    questionNumberElement.textContent = `Question ${currentQuestionIndex + 1} / 35`;
     questionNumberElement.style.display = "block";
     document.getElementById("score").style.display = "none";
     document.getElementById("failed-questions").style.display = "none";
